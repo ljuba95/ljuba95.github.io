@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ljuba95.github.io/posts/first-post/</loc>
+    <loc>https://ljuba95.github.io/posts/first-post/</loc>
     <lastmod>2018-10-15T11:57:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/about/</loc>
+    <loc>https://ljuba95.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/categories/</loc>
+    <loc>https://ljuba95.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/categories/hello/</loc>
-    <lastmod>2018-10-15T11:57:58-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ljuba95.github.io/</loc>
+    <loc>https://ljuba95.github.io/categories/hello/</loc>
     <lastmod>2018-10-15T11:57:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/posts/</loc>
+    <loc>https://ljuba95.github.io/</loc>
     <lastmod>2018-10-15T11:57:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/tags/</loc>
+    <loc>https://ljuba95.github.io/posts/</loc>
+    <lastmod>2018-10-15T11:57:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ljuba95.github.io/tags/welcome/</loc>
+    <loc>https://ljuba95.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljuba95.github.io/tags/welcome/</loc>
     <lastmod>2018-10-15T11:57:58-04:00</lastmod>
     <priority>0</priority>
   </url>
